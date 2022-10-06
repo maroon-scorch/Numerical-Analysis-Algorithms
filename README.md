@@ -1,0 +1,3 @@
+# Numerical Analysis Code
+
+This repository hosts some numerical analysis algorithms I wrote in Python. More algorithms will be added in the future...
